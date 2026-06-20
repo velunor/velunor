@@ -1,5 +1,14 @@
-<h3 align="center">Velu</h3>
+<p>
+<img align="left" src="assets/profile_pic.jpg" width="300" />
 
-<p align="center">
-<b>C++</b> · <b>Reverse Engineering</b> · <b>C</b>
-</p>
+```text
+Velu@github
+-------------------------
+🎀 Nickname: Velu
+💻 Passionate about low-level programming & reverse engineering
+🌸 Exploring binaries, assembly, and system internals
+⚡ Languages: C, C++
+🔬 Enjoy dissecting software and understanding how things work underneath
+🩷 Enjoy creating clean, elegant code and polished technical writeups
+🌙 Always learning something new in cybersecurity and systems
+🎧 Music, cozy nights, and endless debugging sessions ✨
