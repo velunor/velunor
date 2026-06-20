@@ -1,5 +1,5 @@
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300" />
+<img align="left" src="profile.jpg" width="300" />
 
 ```text
 Velu@github
